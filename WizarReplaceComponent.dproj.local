@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2018/05/18 20:01:12.000.320,=rtl.dcp</Transaction>
+    <Transaction>2018/05/18 20:01:50.000.708,=designide.dcp</Transaction>
+    <Transaction>2018/05/18 20:02:01.000.889,=C:\Users\anlop\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/05/18 20:02:27.000.438,E:\ExperWizard\Unit1.pas=C:\Users\anlop\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/05/18 20:02:40.000.476,E:\ExperWizard\WizarReplaceComponent.dproj=C:\Users\anlop\Documents\Embarcadero\Studio\Projects\Package1.dproj</Transaction>
+    <Transaction>2018/05/18 20:03:04.000.041,E:\ExperWizard\UnitPrincipalWizard.pas=E:\ExperWizard\Unit1.pas</Transaction>
+    <Transaction>2018/05/18 21:20:25.000.463,=E:\ExperWizard\Unit2.pas</Transaction>
+    <Transaction>2018/05/18 21:20:38.000.885,E:\ExperWizard\Unit2.dfm=E:\ExperWizard\UnitFormReplaceComponent.dfm</Transaction>
+    <Transaction>2018/05/18 21:20:38.000.885,E:\ExperWizard\Unit2.pas=E:\ExperWizard\UnitFormReplaceComponent.pas</Transaction>
+    <Transaction>2018/05/18 21:24:49.000.300,=vclwinx.dcp</Transaction>
+  </Transactions>
+</BorlandProject>
